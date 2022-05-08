@@ -108,5 +108,5 @@ async def search(ctx, userid):
     embed.add_field(name="User ID", value=f"`{user_id}`", inline=True)
     await ctx.send(embed=embed)
         
-bot.run("OTcyNDcwMjA3MTQ0NjY5MjQ0.GK_EuH.hVl_tPT8F6PUNWlYp56UWGd49shg9G_Bwtu4No")    
+bot.run("TOKEN")    
 
